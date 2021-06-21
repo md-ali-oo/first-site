@@ -1,0 +1,30 @@
+h1{
+  color:#089946;
+  text-align: center;
+  font-size: 24pt;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+  color:#fff;
+  text-align: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.center{
+text-align: center;
+}
+img{
+width: 100%;
+height: auto;
+border-radius: 10px;
+}
+p{
+color: rgb(255, 255, 255);
+text-align: justify;
+}
+.gallery{
+margin: 5px;
+float: left;
+width: 30%;
+padding-left: 10px;
+padding-right: 10px;
+}
