@@ -26,3 +26,6 @@ margin: 15px;
 float: left;
 width: 30%;
 }
+.gallery:hover{
+border: 2px solid #fff;
+  }
